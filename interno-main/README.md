@@ -48,7 +48,7 @@
 
 ## Ссылка на GitHub Pages
 
-Посмотреть [Сайт Interno](https://aleksnikapro.github.io/interno/)
+Посмотреть [Сайт Interno](https://anumunraman.github.io/interno/)
 
 ## Настройка проекта
 
